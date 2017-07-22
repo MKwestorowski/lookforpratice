@@ -1,0 +1,19 @@
+{
+  "name": "lookforpratice",
+  "version": "1.0.0",
+  "description": "Im going to make landing page, there wouldnt be any pull request etc. Any questions? Msg me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKwestorowski/lookforpratice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MKwestorowski/lookforpratice/issues"
+  },
+  "homepage": "https://github.com/MKwestorowski/lookforpratice#readme"
+}
